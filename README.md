@@ -6,9 +6,9 @@
 
 **This batch script is designed to automate the process of adding ClientSettings to the Roblox application. The script fetches the latest version of the Roblox application from the local directory, creates a new directory for the ClientSettings, and downloads the required settings from a remote GitHub repository. This script can save significant time and effort for Roblox users who need to regularly update their ClientSettings.**
 
-Please note that the source code for this script can be found on GitHub at https://github.com/KRiMZ0001/Roblox and https://github.com/L8X/Roblox-Client-Optimizer/. The script was created by Gian!#0001 and takes less than a minute to run.
+**Please note that the source code for this script can be found on GitHub at https://github.com/KRiMZ0001/Roblox and https://github.com/L8X/Roblox-Client-Optimizer/. The script was created by Gian!#0001 and takes less than a minute to run.((
 
-Thank you for considering this script to help automate your Roblox workflow.
+**Thank you for considering this script to help automate your Roblox workflow.**
 
 
 # Instructions for creating it yourself

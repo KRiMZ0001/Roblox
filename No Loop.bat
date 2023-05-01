@@ -13,5 +13,7 @@ cd "!dir!"
 
 curl -o ClientAppSettings.json https://raw.githubusercontent.com/L8X/Roblox-Client-Optimizer/main/ClientAppSettings.json
 
-echo Done.
+echo source - https://github.com/KRiMZ0001/Roblox and github.com/L8X/Roblox-Client-Optimizer/
+echo Made By Gian!#0001 in less than a minute
+echo ClientSettings Added
 pause

@@ -6,7 +6,7 @@
 
 # Instructions for creating it yourself
 
-**To access the scripts, please visit the following links: https://github.com/KRiMZ0001/Roblox/blob/main/No%20Loop.bat or https://github.com/KRiMZ0001/Roblox/blob/main/Auto%20Client%20Settings.bat. Once you have accessed the desired script, copy the source code.
+To access the scripts, please visit the following links: https://github.com/KRiMZ0001/Roblox/blob/main/No%20Loop.bat or https://github.com/KRiMZ0001/Roblox/blob/main/Auto%20Client%20Settings.bat. Once you have accessed the desired script, copy the source code.
 
 To create a notepad on your desktop and add the copied script, please follow these steps:
 
@@ -24,4 +24,4 @@ To create a notepad on your desktop and add the copied script, please follow the
 
 7.Save the file to your desktop.
 
-Once you have saved the file, you will be able to run the script by double-clicking on the batch file on your desktop.**
+Once you have saved the file, you will be able to run the script by double-clicking on the batch file on your desktop.

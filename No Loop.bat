@@ -11,9 +11,30 @@ set dir=!versions_dir!\!latest_version!\ClientSettings
 mkdir "!dir!"
 cd "!dir!"
 
-curl -o ClientAppSettings.json https://raw.githubusercontent.com/L8X/Roblox-Client-Optimizer/main/ClientAppSettings.json
+curl -o ClientAppSettings.json https://raw.githubusercontent.com/KRiMZ0001/Roblox/main/ClientAppSettings.json
 
 echo source - https://github.com/KRiMZ0001/Roblox and github.com/L8X/Roblox-Client-Optimizer/
-echo Made By Gian!#0001 in less than a minute
-echo ClientSettings Added
+echo Made By Gian!#0001
+
+echo.
+color
+echo Choose an option:
+
+echo [1] Add ClientSettings to every version
+echo [2] Remove ClientSettings from every version
+
+echo.
+set /p choice=Enter your choice (1/2): 
+
+if "%choice%"=="1" (
+    color 0A
+    echo ClientSettings Added to every version.
+) else if "%choice%"=="2" (
+    color 0C
+    echo Removing ClientSettings from every version.
+    for /d %%d in ("!versions_dir!\*") do (
+        rmdir /s /q "%%d\ClientSettings"
+    )
+)
+
 pause

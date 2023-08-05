@@ -1,6 +1,4 @@
 {
 	"DFFlagDebugRenderForceTechnologyVoxel": true,
-	"DFIntTaskSchedulerTargetFps": 500,
-	"FFlagDebugGraphicsPreferVulkan": true,
-	"FFlagFixGraphicsQuality": true
+	"DFIntTaskSchedulerTargetFps": 500
 }

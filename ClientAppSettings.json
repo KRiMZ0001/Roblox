@@ -1,6 +1,5 @@
 {
 	"DFIntTaskSchedulerTargetFps": 500,
 	"FFlagDebugGraphicsPreferVulkan": true,
-	"FFlagFixGraphicsQuality": true,
 	"FFlagFixGraphicsQuality": true
 }
